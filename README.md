@@ -22,6 +22,9 @@ Creating  a Pluggable Database (PDB) with proper naming conventions and creating
 
  Step 1: Create the Pluggable Database
  Step 2: Open the Pluggable Database
+ <img width="841" height="361" alt="PLGB OPEN" src="https://github.com/user-attachments/assets/a18c5ec8-f437-4976-bff1-bee0aba66f59" />
+<img width="841" height="361" alt="PLGB OPEN" src="https://github.com/user-attachments/assets/a18c5ec8-f437-4976-bff1-bee0aba66f59" />
+
  
  Step 3: Create User Inside the PDB
  
