@@ -26,6 +26,10 @@ Steps Performed:
 	2.	Created the PDB using the required naming format.
  CREATE PLUGGABLE DATABASE gi_pdb_28752
    ADMIN USER pdbadmin IDENTIFIED BY 1l2b3k4d
+<img width="543" height="113" alt="pluggable database" src="https://github.com/user-attachments/assets/bff4c09c-7cb9-43fe-a9e8-a258ba39425b" />
+
+   
+   
    FILE_NAME_CONVERT=('pdbseed','gi_pdb_28752');
 	3.	Created a user inside the PDB using the required naming convention.
  CREATE USER shima_plsqlauca_28752 IDENTIFIED BY shima;
