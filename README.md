@@ -24,12 +24,8 @@ Steps Performed:
 	1.	Connected to the Container Database (CDB) as SYSDBA.
    sqlplus / as sysdba
 	2.	Created the PDB using the required naming format.
- CREATE PLUGGABLE DATABASE gi_pdb_28752
-   ADMIN USER pdbadmin IDENTIFIED BY 1l2b3k4d
-<img width="543" height="113" alt="pluggable database" src="https://github.com/user-attachments/assets/bff4c09c-7cb9-43fe-a9e8-a258ba39425b" />
-
-   
-   
+ CREATE PLUGGABLE DATABASE gisele_pdb_28752
+   ADMIN USER gisele_plsqlauca_28752 IDENTIFIED BY shima 
    FILE_NAME_CONVERT=('pdbseed','gi_pdb_28752');
 	3.	Created a user inside the PDB using the required naming convention.
  CREATE USER shima_plsqlauca_28752 IDENTIFIED BY shima;
@@ -57,6 +53,20 @@ Using OEM, I verified:
 	•	The overall Oracle environment status
 
 All sources were properly cited.Implementations and analysis represent original work.No AI generated content was copied without attribution or adaptation.
+
+
+<img width="543" height="113" alt="pluggable database" src="https://github.com/user-attachments/assets/c7bb6262-2369-4177-8d55-861698fd5193" />
+
+<img width="854" height="453" alt="pic 2" src="https://github.com/user-attachments/assets/3d6ba1f8-7a29-4e72-a04a-ac6465b9ccc2" />
+
+<img width="859" height="438" alt="pic 4" src="https://github.com/user-attachments/assets/ff5f240d-486d-483f-bc12-9b4467acb283" />
+
+<img width="852" height="448" alt="pic 7" src="https://github.com/user-attachments/assets/6482d517-1faf-4b71-9e20-d4c996608b1a" />
+
+<img width="946" height="403" alt="pic 8" src="https://github.com/user-attachments/assets/dca59125-3a8e-4337-aef4-e9a065453612" />
+
+
+
 
  
 
